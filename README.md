@@ -11,10 +11,6 @@
 
 <img src="./images/pinout-table.png" alt="Pinout Table" width="300">
 
-Pin #1 -> VCC
-Pin #3 -> SDA
-Pin #5 -> SCL
-Pin #6 -> GROUND
 
 | Raspberry Pi Pin | | BME280 Pin | Connection |
 |----------|----|---------------|-------------|
