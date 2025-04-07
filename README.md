@@ -9,7 +9,7 @@
 
 
 ## Steps
-1. Assemble raspberry pi and sensor with jumper wires. Refrence youtube video for step-by-step directtions 
+1. Assemble raspberry pi and sensor with jumper wires. Refrence youtube video for step-by-step directions. 
 
 <img src="./images/pinout-table.png" alt="Pinout Table" width="300">
 
