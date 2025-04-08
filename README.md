@@ -18,10 +18,10 @@ The hardware is what you can touch and feel, like the Raspberry Pi or the BME280
 
 | Raspberry Pi Pin | | BME280 Pin | Connection |
 |----------|----|---------------|-------------|
-| 3.3V - Pin 1       | -> | VCC       | Power      |
-| GND        | -> | GND       | Ground     |
-|SDA (GPIO3) | -> | SDA | Serial Data Line |
-| SCL (GPIO5) | -> | SCL | Serial Clock Line |
+| 3.3V - Pin 1       | --> | VCC       | Power      |
+| GND        | --> | GND       | Ground     |
+|SDA (GPIO3) | --> | SDA | Serial Data Line |
+| SCL (GPIO5) | --> | SCL | Serial Clock Line |
 
 3. When starting with a brand-new Raspberry Pi, one of the first steps involves creating a bootable SD card that contains the tiny computer’s operating system and user files.
     1. Using a laptop or desktop computer, install the [Raspberry Pi Imager](https://www.raspberrypi.com/software/). Make sure to select the download link that matches your computer's operating system. This imager software will be the method we use to install the Raspberry Pi's operating system on our microSD card.
